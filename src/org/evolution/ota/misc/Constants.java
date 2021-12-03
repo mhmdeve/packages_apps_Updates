@@ -39,8 +39,8 @@ public final class Constants {
     static final String PROP_DEVICE = "org.evolution.device";
     static final String PROP_BUILD_VERSION = "org.evolution.version.prop";
     static final String PROP_VERSION_CODE = "org.evolution.ota.version_code";
-    static final String OTA_URL = "https://raw.githubusercontent.com/Evolution-X-Devices/official_devices/master/builds/%s.json";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/Evolution-X-Devices/official_devices/master/changelogs/%s/%s.txt";
+    static final String OTA_URL = "https://raw.githubusercontent.com/mhmdeve/official_devices-1/master/builds/%s.json";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/mhmdeve/official_devices-1/master/changelogs/%s/%s.txt";
     public static final String DOWNLOAD_PATH = "/data/system_updates/";
     static final String EXPORT_PATH = "EvolutionX-Updates/";
     public static  String fileName = "";
